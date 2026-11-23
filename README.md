@@ -23,5 +23,8 @@ A set of retro-terminal desktop widgets for macOS. Each one is its own small pro
 | “ [**QUOTE//DAY**](https://github.com/SlicingReaper/quote-of-the-day-widget) | A quote every midnight from a pool of 300 |
 | ▦ [**TETRIS//GRID**](https://github.com/SlicingReaper/tetris-widget) | Tetris on the desktop |
 | ◉ [**PONG//SOLO**](https://github.com/SlicingReaper/pong-widget) | Single-player Pong |
+| ◎ [**PONG//DUO**](https://github.com/SlicingReaper/pong-duo-widget) | Two-player Pong, three widgets wide |
 | ⊞ [**2048//TILE**](https://github.com/SlicingReaper/2048-widget) | 2048 with undo |
+| ⌂ [**OUTPOST//**](https://github.com/SlicingReaper/outpost-colony-widget) | Colony-trading game vs 3 AI rivals |
+| ☠ [**DOOM//TERM**](https://github.com/SlicingReaper/doom-widget) | DOOM shareware E1, compiled to WebAssembly |
 | 🎛️ [**WIDGET//CTL**](https://github.com/SlicingReaper/widgetctl) | Settings app: layout, 16 themes × 8 styles, `⌃⌥⌘W` hotkey |
