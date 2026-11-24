@@ -36,4 +36,4 @@ And a desktop app in the same terminal style:
 
 | Project | What |
 |:--|:--|
-| 🌍 **KJX** <sub>private</sub> | Treasure-hunting 3D globe: 50k+ shipwrecks, plane crashes, sunken vehicles, lost treasure and 245 myths, with 80+ globes from satellite to 750 million years ago |
+| 🌍 [**KJX**](https://github.com/SlicingReaper/KJX) | Treasure-hunting 3D globe: 50k+ shipwrecks, plane crashes, sunken vehicles, lost treasure and 245 myths, with 80+ globes from satellite to 750 million years ago |
