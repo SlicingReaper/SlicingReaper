@@ -27,4 +27,7 @@ A set of retro-terminal desktop widgets for macOS. Each one is its own small pro
 | ⊞ [**2048//TILE**](https://github.com/SlicingReaper/2048-widget) | 2048 with undo |
 | ⌂ [**OUTPOST//**](https://github.com/SlicingReaper/outpost-colony-widget) | Colony-trading game vs 3 AI rivals |
 | ☠ [**DOOM//TERM**](https://github.com/SlicingReaper/doom-widget) | DOOM shareware E1, compiled to WebAssembly |
+| ◍ [**GLOBE//GUESS**](https://github.com/SlicingReaper/globe-widget) | Daily mystery-country game on a globe |
+| ◍ [**ATLAS//QUIZ**](https://github.com/SlicingReaper/atlas-quiz-widget) | Sporcle-style map quiz: world, continents, US states |
+| W [**WORDLE//**](https://github.com/SlicingReaper/wordle-widget) | The daily five-letter word game |
 | 🎛️ [**WIDGET//CTL**](https://github.com/SlicingReaper/widgetctl) | Settings app: layout, 16 themes × 8 styles, `⌃⌥⌘W` hotkey |
