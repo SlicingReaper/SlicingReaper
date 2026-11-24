@@ -1,4 +1,4 @@
-### Felix · Computer Science & Business student
+### X · Computer Science & Business student
 
 I build tools for my own desk and life. My repos are split by **who wrote the code**.
 
