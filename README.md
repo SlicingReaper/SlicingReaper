@@ -31,3 +31,9 @@ A set of retro-terminal desktop widgets for macOS. Each one is its own small pro
 | ◍ [**ATLAS//QUIZ**](https://github.com/SlicingReaper/atlas-quiz-widget) | Sporcle-style map quiz: world, continents, US states |
 | W [**WORDLE//**](https://github.com/SlicingReaper/wordle-widget) | Wordle in English, French, Spanish, German |
 | 🎛️ [**WIDGET//CTL**](https://github.com/SlicingReaper/widgetctl) | Settings app: layout, 16 themes × 8 styles, `⌃⌥⌘W` hotkey |
+
+And a desktop app in the same terminal style:
+
+| Project | What |
+|:--|:--|
+| 🌍 **KJX//GLOBE** <sub>private</sub> | Treasure-hunting 3D globe: 50k+ shipwrecks, plane crashes, sunken vehicles, lost treasure and 245 myths, with 80+ globes from satellite to 750 million years ago |
